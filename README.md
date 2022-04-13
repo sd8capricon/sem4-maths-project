@@ -3,6 +3,7 @@
 `git clone https://github.com/sd8capricon/sem4-maths-project.git`  
 cd into project  
 create python venv: `py -m venv venv`  
+Install packages `pip install -r requirements.txt`  
 ## To run code
 `py gen_ran.py number_of_trials_here`  
  eg `py gen_ran.py 10`,  
