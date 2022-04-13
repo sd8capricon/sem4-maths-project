@@ -37,4 +37,4 @@ for list in randomList:
 
 # Outputting file
 # df.to_csv('{}\{} trials.csv'.format(path, number_of_trials))
-df.to_excel('{}\{} trials.xlsx'.format(path, number_of_trials), sheet_name='{} trials'.format(number_of_trials))
+df.to_excel('{}\{} Trials.xlsx'.format(path, number_of_trials), sheet_name='{} Trials'.format(number_of_trials))
