@@ -5,7 +5,7 @@ import pandas as pd
 
 # To run file 
 # py gen_ran.py number_of_trials_here
-# eg py gen_ran.py 10 for 10 trials
+# eg py gen_ran.py 10, for 10 trials
 
 # Pandas config
 pd.io.formats.excel.ExcelFormatter.header_style = None
